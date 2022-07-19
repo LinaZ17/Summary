@@ -211,6 +211,16 @@ color:#800080;
 }
 
 
+.card_link ul li{
+list-style:circle;
+margin-left: 18px;
+margin-bottom: 10px;
+}
+
+
+
+
+
 /*_____________footer_____________________*/
 
 /*анимация текста*/
